@@ -1,10 +1,9 @@
 Ubuntu Post Install Scripts
 ===========================
 
-A semi-automatic and interactive set of post-installation scripts for Ubuntu and its derivatives. You can use this project to install your favourite apps, set your preferred settings, and do minor housekeeping.
+A semi-automatic and interactive set of post-installation scripts for Mint and its derivatives. You can use this project to install your favourite apps, set your preferred settings, and do minor housekeeping.
 
-This project is free software; you can redistribute it and/or modify it under the terms of the [GNU General Public License](/LICENSE). If you have improvements, contributions to the [original](https://github.com/snwh/ubuntu-post-install) are much appreciated.
-
+This project is free software; you can redistribute it and/or modify it under the terms of the [GNU General Public License](/LICENSE).
 ## Organization
 
 This project is designed to be fairly modular (and not be one huge script) so you can easily delete or exclude bits/functions that you don't want to use.

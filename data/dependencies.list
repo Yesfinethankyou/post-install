@@ -1,4 +1,4 @@
 curl
-software-properties-common
+wget
 whiptail
-xterm
+
